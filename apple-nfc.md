@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Breaking Apple's Decade-Long NFC Monopoly: What It Means for Developers"
 date: 2024-10-13
 categories: [technology, mobile-development, apple]
